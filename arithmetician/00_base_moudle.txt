@@ -1,4 +1,0 @@
-    //整形数组输出
-    for(loop = 0; loop < 10; loop++){
-        printf("%d ", array[loop]);
-    }
